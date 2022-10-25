@@ -2,29 +2,11 @@
   "name": "GMMK Pro",
   "vendorId": "0x320F",
   "productId": "0x5044",
+  "lighting": "none",
   "matrix": {
     "rows": 11,
     "cols": 8
   },
-  "lighting": {
-      "extends": "qmk_rgblight",
-      "underglowEffects": [
-        ["None", 0],
-        ["SOLID_COLOR", 1],
-        ["BREATHING", 1],
-        ["CYCLE_ALL", 1],
-        ["CYCLE_LEFT_RIGHT", 1],
-        ["CYCLE_UP_DOWN", 1],
-        ["RAINBOW_MOVING_CHEVRON", 1],
-        ["CYCLE_OUT_IN", 1],
-        ["CYCLE_OUT_IN_DUAL", 1],
-        ["CYCLE_PINWHEEL", 1],
-        ["CYCKE_SPIRAL", 1],
-        ["DUAL_BEACON", 1],
-        ["RAINBOW_BEACON", 1],
-        ["RAINDROPS", 1]
-      ]
-    },
   "layouts": {
     "labels": [
       "ISO Enter",
@@ -66,16 +48,14 @@
         },
         "9,7",
         {
-          "x": 0.5,
-          "c": "#777777"
+          "x": 0.5
         },
         "0,1\n\n\n\n\n\n\n\n\ne0"
       ],
       [
         {
           "y": 0.25,
-          "x": 2.75,
-          "c": "#cccccc"
+          "x": 2.75
         },
         "1,6",
         "1,7",
