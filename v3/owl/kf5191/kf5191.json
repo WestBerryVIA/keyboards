@@ -88,7 +88,12 @@
     ],
     "matrix": {"rows": 6, "cols": 16},
     "customKeycodes": [
-      {"name": "RGB Random Effect","title": "RGB Random Effect","shortName": "RNG_TOG"}
+      {"name": "TSB_TOG","title": "RGB effect recording","shortName": "TSB_TOG"},
+      {"name": "TSB_S1","title": "RGB REC S1","shortName": "TSB_S1"},
+      {"name": "TSB_S2","title": "RGB REC S2","shortName": "TSB_S2"},
+      {"name": "TSB_S3","title": "RGB REC S3","shortName": "TSB_S3"},
+      {"name": "KF_KOON","title": "Open www.sharkoon.com website","shortName": "KF_KOON"},
+      {"name": "RGB_COLOUR","title": "RGB Seven colors","shortName": "RGB_COLOUR"}
     ],
     "layouts": {
         "keymap":
