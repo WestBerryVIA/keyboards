@@ -1,7 +1,7 @@
 {
     "name": "lk87",
-    "vendorId": "0x05ac",
-    "productId": "0x024f",
+    "vendorId": "0xFFFE",
+    "productId": "0x0017",
     "lighting": {
         "extends": "qmk_rgblight",
         "underglowEffects": [
