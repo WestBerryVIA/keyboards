@@ -3,17 +3,7 @@
   "vendorId": "0x342D",
   "productId": "0xE39E",
 
-  "matrix": {"rows": 14, "cols": 8},
-  "customKeycodes": [
-    {"name": "Mission Control", "title": "Mission Control in macOS", "shortName": "Mission Control"},
-    {"name": "Launch Pad", "title": "Launch Pad in macOS", "shortName": "Launch Pad"},
-    {"name": "Left Option", "title": "Left Option in macOS", "shortName": "Left Option"},
-    {"name": "Right Option", "title": "Right Option in macOS", "shortName": "Right Option"},
-    {"name": "Left Cmd", "title": "Left Command in macOS", "shortName": "Left Command"},
-    {"name": "Right Cmd", "title": "Right Command in macOS", "shortName": "Right Command"},
-    {"name": "Task View", "title": "Task View in windows", "shortName": "Task View"},
-    {"name": "File Explorer", "title": "File Explorer in windows", "shortName": "File Explorer"}
-  ],
+  "matrix": {"rows": 11, "cols": 8},
   "layouts": {
         "keymap":[
       [
@@ -55,7 +45,7 @@
         {
           "w": 1.5
         },
-        "10,2"
+        "10,5"
       ],
       [
         {

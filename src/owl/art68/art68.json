@@ -60,7 +60,7 @@
     {"name": "BT DEV4","title": "BT Device 4","shortName": "DEV4"},
     {"name": "BT DEV5","title": "BT Device 5","shortName": "DEV5"},
     {"name": "2.4G","title": "2.4G","shortName": "2.4G"},
-	{"name": "BT BAT","title": "BT BAT","shortName": "Battery"},
+    {"name": "BT BAT","title": "BT BAT","shortName": "Battery"},
     {"name": "VIA RST","title": "VIA RST","shortName": "VIA RST"},
     {"name": "CLR EEP","title": "Clear eeprom","shortName": "CLR EEP"}
   ],
