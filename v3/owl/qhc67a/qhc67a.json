@@ -1,5 +1,5 @@
 {
-  "name": "QHC67A",
+  "name": "RPK-001",
   "vendorId": "0x3555",
   "productId": "0x2236",
   "keycodes": ["qmk_lighting"],
