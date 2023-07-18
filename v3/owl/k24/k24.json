@@ -1,5 +1,5 @@
 {
-    "name": "K24",
+    "name": "K3 QMK",
     "vendorId": "0x3555",
     "productId": "0x3667",
     "keycodes": ["qmk_lighting"],
