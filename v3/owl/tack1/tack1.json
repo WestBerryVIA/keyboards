@@ -1,5 +1,5 @@
 {
-    "name": "TACK1",
+    "name": "TAC-K1",
     "vendorId": "0x3555",
     "productId": "0x3669",
     "matrix": {"rows": 5, "cols": 16},
@@ -156,7 +156,7 @@
                   "c": "#aaaaaa",
                   "w": 1.75
                 },
-                "4,12",
+                "3,12",
                 {
                   "c": "#cccccc"
                 },
